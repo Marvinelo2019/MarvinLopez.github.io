@@ -1,2 +1,2 @@
 # MarvinLopez.github.io
-Curriculo vita
+Curriculo vitae
